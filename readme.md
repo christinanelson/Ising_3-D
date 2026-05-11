@@ -217,4 +217,3 @@ This project provided early hands-on experience with the same theoretical framew
 Christina Nelson  
 Senior Undergraduate Physics Project  
 Univeristy of Hawaii Manoa
-```
