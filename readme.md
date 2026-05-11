@@ -183,19 +183,6 @@ The simulation produced several important results:
 
 ---
 
-## Computational Skills Demonstrated
-
-This project involved:
-
-- Statistical mechanics and condensed matter physics.
-- Monte Carlo methods and stochastic simulation.
-- C++ programming.
-- Numerical data analysis.
-- Experimental data fitting and comparison.
-- Scientific visualization using ROOT.
-
----
-
 ## Relevance to Quantum Computing
 
 The Ising Hamiltonian is also the mathematical foundation of quantum annealing systems such as those developed by D-Wave.
@@ -203,10 +190,10 @@ The Ising Hamiltonian is also the mathematical foundation of quantum annealing s
 Optimization problems can be mapped to an Ising energy function of the form
 
 $$
-E(\mathbf{s}) = -\sum_i h_i s_i - \sum_{i<j} J_{ij} s_i s_j
+E(s) = -\sum_i h_i s_i - \sum_{i<j} J_{ij} s_i s_j
 $$
 
-where the goal is to find the spin configuration $\mathbf{s}$ that minimizes the energy.
+where the goal is to find the spin configuration $s$ that minimizes the energy.
 
 This project provided early hands-on experience with the same theoretical framework that underlies modern quantum optimization hardware.
 
