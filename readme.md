@@ -190,7 +190,7 @@ The Ising Hamiltonian is also the mathematical foundation of quantum annealing s
 Optimization problems can be mapped to an Ising energy function of the form
 
 $$
-E(s) = -\sum_i h_i s_i - \sum_{i<j} J_{ij} s_i s_j
+E(s) = -\sum_i h_i s_i - \sum_{i \lt j} J_{ij} s_i s_j
 $$
 
 where the goal is to find the spin configuration $s$ that minimizes the energy.
